@@ -26,43 +26,43 @@ public class MainActivity extends AppCompatActivity {
 
         rvWayangJawa = findViewById(R.id.rvWayangJawa);
 
-        WayangJawa jawa = new WayangJawa("Oddbods Purpel", R.drawable.ungu);
+        WayangJawa jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
 
         listWayangJawa.add(jawa);
 
-        jawa = new WayangJawa("Oddbods Green", R.drawable.ijo);
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
 
         listWayangJawa.add(jawa);
 
-        jawa = new WayangJawa("Oddbods Purpel", R.drawable.ungu);
+        jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
 
         listWayangJawa.add(jawa);
 
-        jawa = new WayangJawa("Oddbods Green", R.drawable.ijo);
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
 
         listWayangJawa.add(jawa);
 
-        jawa = new WayangJawa("Oddbods Purpel", R.drawable.ungu);
+        jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
 
         listWayangJawa.add(jawa);
 
-        jawa = new WayangJawa("Oddbods Green", R.drawable.ijo);
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
 
         listWayangJawa.add(jawa);
 
-        jawa = new WayangJawa("Oddbods Purpel", R.drawable.ungu);
+        jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
 
         listWayangJawa.add(jawa);
 
-        jawa = new WayangJawa("Oddbods Green", R.drawable.ijo);
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
 
         listWayangJawa.add(jawa);
 
-        jawa = new WayangJawa("Oddbods Purpel", R.drawable.ungu);
+        jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
 
         listWayangJawa.add(jawa);
 
-        jawa = new WayangJawa("Oddbods Green", R.drawable.ijo);
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
 
         listWayangJawa.add(jawa);
 
