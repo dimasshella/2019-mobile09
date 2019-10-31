@@ -26,12 +26,44 @@ public class MainActivity extends AppCompatActivity {
         //menyambungkan rvWayangJawa ke layout
         rvWayangJawa = findViewById(R.id.rvWayangJawa);
         //Membuat object jawa
-        WayangJawa jawa = new WayangJawa("Oddbods Purpel", R.drawable.ungu);
-        //menambahkan jawa ke listSuperHero
+        WayangJawa jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
+
         listWayangJawa.add(jawa);
-        //membuat object jawa baru
-        jawa = new WayangJawa("Oddbods Green", R.drawable.ijo);
-        //menambahkan jawa baru ke listSuperhero
+
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
+
+        listWayangJawa.add(jawa);
+
+        jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
+
+        listWayangJawa.add(jawa);
+
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
+
+        listWayangJawa.add(jawa);
+
+        jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
+
+        listWayangJawa.add(jawa);
+
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
+
+        listWayangJawa.add(jawa);
+
+        jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
+
+        listWayangJawa.add(jawa);
+
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
+
+        listWayangJawa.add(jawa);
+
+        jawa = new WayangJawa("Oddbods Purpel", R.drawable.purpel);
+
+        listWayangJawa.add(jawa);
+
+        jawa = new WayangJawa("Oddbods Blue", R.drawable.biru);
+
         listWayangJawa.add(jawa);
         //Instansiasi Adapter
         WayangJawaAdapter wayangJawaAdapter = new WayangJawaAdapter(listWayangJawa);
